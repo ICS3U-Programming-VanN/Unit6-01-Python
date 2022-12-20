@@ -7,8 +7,9 @@
 # and display it to the console
 
 
-import constants
 import random
+
+import constants
 
 
 def main():
